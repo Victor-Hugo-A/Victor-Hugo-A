@@ -62,9 +62,9 @@ Desenvolvimento full stack • Microserviços • Cloud Computing • Boas prát
 
 ## 🚀 Projetos em Destaque
 
-### 🔥 [Projeto Teste](https://github.com/Victor-Hugo-A/projetoteste)
+### 🔥 Projeto SENAPPEN - teste
 
-![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Victor-Hugo-A/projetoteste)
 
 **Tecnologias:** React • Node.js • PostgreSQL • Docker  
 **Descrição:** Aplicação full stack desenvolvida para praticar conceitos como CRUD, autenticação JWT e integração com banco de dados relacional.
