@@ -1,4 +1,7 @@
-# Victor Hugo Alves dos Santos
+<p align="center">
+  <img src="./assets/banner_readme_git.png" alt="Banner Victor Hugo Alve Sans dostos" width="1584" height="225" />
+</p>
+
 ### 🔹 Desenvolvimento Full Stack | Automação | Dados | Python | Power BI | TypeScript | Java
 
 Desenvolvedor com foco em **aplicações full stack**, **automação de processos** e **soluções orientadas a dados**. Atuo com **Python**, **TypeScript**, **Java** e tecnologias modernas para desenvolvimento web, integração entre sistemas, processamento de informações e visualização analítica.
