@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner_readme_git.png" alt="Banner Victor Hugo Alve Sans dostos" width="1584" height="225" />
+  <img src="./assets/banner-victor-hugo-a.png" alt="Banner Victor Hugo A." width="100%" />
 </p>
 
 ### 🔹 Desenvolvimento Full Stack | Automação | Dados | Python | Power BI | TypeScript | Java
