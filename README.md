@@ -2,23 +2,29 @@
   <img src="./assets/banner-victor-hugo-a.png" alt="Banner Victor Hugo A." width="100%" />
 </p>
 
-### 🔹 Desenvolvimento Full Stack | Automação | Dados | Python | Power BI | TypeScript | Java
-
-Desenvolvedor com foco em **aplicações full stack**, **automação de processos** e **soluções orientadas a dados**. Atuo com **Python**, **TypeScript**, **Java** e tecnologias modernas para desenvolvimento web, integração entre sistemas, processamento de informações e visualização analítica.
-
-Tenho interesse em projetos que unam **arquitetura limpa**, **boas práticas de desenvolvimento**, **experiência do usuário**, **automação inteligente** e **análise de dados aplicada ao negócio**.
-
-**🎯 Atualmente focado em:**  
-Desenvolvimento full stack • Automação com Python • Power BI • APIs e integração de sistemas • Cloud Computing • Microsoft 365
-
----
-
-## 🌍 Conecte-se comigo
-
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Acessar-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://victor-hugo-dev.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor_Hugo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugo-a57b021ab/)
 [![Gmail](https://img.shields.io/badge/Gmail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorpht.vh@gmail.com)
 
+# Olá, eu sou Victor Hugo 👋
+
+### Desenvolvedor Full Stack Jr | Java | Spring Boot | Python | TypeScript | SQL | Power BI
+
+Sou desenvolvedor em formação com foco em aplicações full stack, automação de processos, integração de APIs e soluções orientadas a dados.
+
+Atuo com Java/Spring Boot, Python/FastAPI, TypeScript, React, Angular, SQL, PostgreSQL, Power BI e ferramentas Microsoft 365, criando soluções para organização de fluxos, integração entre sistemas, validação operacional e análise de informações.
+
+Atualmente estou aprofundando meus conhecimentos em arquitetura de software, APIs REST, cloud computing, automação com Python, BI e boas práticas de desenvolvimento.
+
+---
+
+## Principais áreas de atuação
+
+- Desenvolvimento de APIs REST e aplicações full stack
+- Automação de processos com Python e Power Platform
+- Integração entre sistemas e tratamento de dados
+- Dashboards e análise de informações com Power BI
+- Banco de dados relacional com SQL, PostgreSQL e MySQL
 ---
 
 ## 🛠️ Stack Técnica
