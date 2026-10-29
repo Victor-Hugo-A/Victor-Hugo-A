@@ -34,8 +34,7 @@ Atualmente direciono meus estudos principalmente para:
 
 > **Projeto Full Stack institucional | Aplicação em produção | Código-fonte privado**
 
-🔗 **Aplicação:**  
-https://mjsp-recebimentos-smtp.vercel.app
+[![Acessar Aplicação](https://img.shields.io/badge/Acessar_Aplicação-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mjsp-recebimentos-smtp.vercel.app)
 
 Sistema web desenvolvido para auxiliar o **controle e acompanhamento de processos de recebimento**, centralizando informações e diferentes fluxos de usuários em uma única plataforma.
 
@@ -65,8 +64,7 @@ Sistema web desenvolvido para auxiliar o **controle e acompanhamento de processo
 
 > **Projeto Full Stack | Frontend + Backend + API REST**
 
-🔗 **Repositório:**  
-https://github.com/Victor-Hugo-A/FULLSTACKCRUD
+[![Ver Repositório](https://img.shields.io/badge/Ver_Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Victor-Hugo-A/FULLSTACKCRUD)
 
 Aplicação Full Stack desenvolvida para praticar a integração entre frontend e backend por meio de uma **API REST**, implementando operações completas de cadastro, consulta, atualização e exclusão de registros.
 
@@ -89,8 +87,7 @@ Aplicação Full Stack desenvolvida para praticar a integração entre frontend 
 
 ## 💰 Finanças Pessoais
 
-🔗 **Repositório:**  
-https://github.com/Victor-Hugo-A/financas-pessoais-FP
+[![Ver Repositório](https://img.shields.io/badge/Ver_Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Victor-Hugo-A/financas-pessoais-FP)
 
 Aplicação web voltada ao **controle e organização financeira pessoal**, reunindo receitas, despesas, assinaturas, dívidas, parcelas, metas e compromissos financeiros.
 
@@ -109,8 +106,7 @@ Aplicação web voltada ao **controle e organização financeira pessoal**, reun
 
 ## 🛍️ Deco Store
 
-🔗 **Repositório:**  
-https://github.com/Victor-Hugo-A/deco-store
+[![Ver Repositório](https://img.shields.io/badge/Ver_Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Victor-Hugo-A/deco-store)
 
 Projeto desenvolvido com tecnologias modernas do ecossistema JavaScript/TypeScript, trabalhando conceitos de aplicações web modernas, persistência de dados e deploy em cloud.
 
@@ -122,8 +118,7 @@ Projeto desenvolvido com tecnologias modernas do ecossistema JavaScript/TypeScri
 
 ## 📚 Organiza Concursos
 
-🔗 **Repositório:**  
-https://github.com/Victor-Hugo-A/organiza-concursos
+[![Ver Repositório](https://img.shields.io/badge/Ver_Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Victor-Hugo-A/organiza-concursos)
 
 Aplicação desenvolvida para facilitar a **organização e acompanhamento de concursos públicos**, centralizando informações e auxiliando no planejamento dos estudos.
 
@@ -133,23 +128,46 @@ Aplicação desenvolvida para facilitar a **organização e acompanhamento de co
 
 ### ☕ Backend
 
-`Java` • `Spring Boot` • `Node.js` • `Express` • `Python` • `FastAPI`
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ### 🌐 Frontend
 
-`TypeScript` • `JavaScript` • `React` • `Next.js` • `Angular` • `HTML5` • `CSS3` • `Tailwind CSS`
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ### 🗄️ Banco de Dados
 
-`PostgreSQL` • `MySQL` • `Oracle SQL` • `SQLite` • `Prisma ORM`
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
 ### 📊 Dados & BI
 
-`Power BI` • `DAX` • `Power Query` • `Excel` • `SQL`
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=000)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat-square&logo=microsoft&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=000)
 
 ### ☁️ Cloud & Ferramentas
 
-`Git` • `GitHub` • `Docker` • `Azure` • `Vercel` • `Neon` • `Postman`
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
@@ -157,9 +175,8 @@ Aplicação desenvolvida para facilitar a **organização e acompanhamento de co
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Victor-Hugo-A&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Hugo-A&layout=compact&langs_count=8&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Victor-Hugo-A&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Victor-Hugo-A&theme=github_dark" />
 
 </div>
 
