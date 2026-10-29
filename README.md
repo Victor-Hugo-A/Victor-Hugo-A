@@ -60,11 +60,11 @@ Sistema web desenvolvido para auxiliar o **controle e acompanhamento de processo
 
 ---
 
-## 💻 FULLSTACKCRUD
+## 💻 Full Stack CRUD — React + Express
 
 > **Projeto Full Stack | Frontend + Backend + API REST**
 
-[![Ver Repositório](https://img.shields.io/badge/Ver_Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Victor-Hugo-A/FULLSTACKCRUD)
+[![Ver Repositório](https://img.shields.io/badge/Ver_Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Victor-Hugo-A/fullstack-react-express-crud)
 
 Aplicação Full Stack desenvolvida para praticar a integração entre frontend e backend por meio de uma **API REST**, implementando operações completas de cadastro, consulta, atualização e exclusão de registros.
 
